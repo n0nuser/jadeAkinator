@@ -1,4 +1,12 @@
+# Nota Final : 
+
+## Parcipantes:
+
+- [Sergio García González](https://github.com/AnOrdinaryUsser)
+- [Pablo Jesús González Rubio](https://github.com/n0nuser)
+
 # Enunciado de la práctica de Agentes a realizar con JADE
+
 ## Quién es Quién
 
 Todos hemos visto y algunos jugado al juego de Quién es Quién. Ahora se verá cómo se podría hacer que una máquina acierte en quién se está pensando. Para ello, en esta práctica se va a hacer uso de técnicas básicas de Machine Learning que se darán de base para la realización de la
